@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Justine/Desktop/Hangman/Game.cpp
+Game.h
+C:/Users/Justine/Desktop/Hangman/Game.h
+
+C:/Users/Justine/Desktop/Hangman/Game.h
+iostream
+-
+vector
+-
+time.h
+-
+cstdlib
+-
+stdlib.h
+-
+
+C:/Users/Justine/Desktop/Hangman/main.cpp
+Game.h
+C:/Users/Justine/Desktop/Hangman/Game.h
+
